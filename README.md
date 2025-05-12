@@ -16,4 +16,4 @@ i'm a **web designer**, a (beginner) **musician**, and a **student** in californ
 > 🖌️ graphic design  
 > 📺 watch livestreams on twitch
 
-## [🌐 visit my website](https://anjos.cc)
+### [🌐 visit my website](https://anjos.cc)

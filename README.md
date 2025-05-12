@@ -7,7 +7,7 @@ i'm a **web designer**, a (beginner) **musician**, and a **student** in californ
 
 🌱 my main language is **brazilian portuguese**, but i also speak **english**!
 
-<br>
+
 
 ## 💚 what i do
 

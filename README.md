@@ -7,13 +7,13 @@ i'm a **web designer**, a (beginner) **musician**, and a **student** in californ
 
 🌱 my main language is **brazilian portuguese**, but i also speak **english**!
 
--
+<br>
 
 ## 💚 what i do
 
-<li>🎨 make websites</li>
-<li>🎵 create music</li>  
-<li>🖌️ graphic design</li>  
-<li>📺 watch livestreams on twitch</li>
+- 🎨 make websites
+- 🎵 create music  
+- 🖌️ graphic design  
+- 📺 watch livestreams on twitch
 
 ### [🌐 visit my website!](https://anjos.cc)

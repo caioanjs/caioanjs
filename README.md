@@ -11,9 +11,9 @@ i'm a **web designer**, a (beginner) **musician**, and a **student** in californ
 
 ## 💚 what i do
 
-> 🎨 make websites  
-> 🎵 create music  
-> 🖌️ graphic design  
-> 📺 watch livestreams on twitch
+<li>🎨 make websites</li>
+<li>🎵 create music</li>  
+<li>🖌️ graphic design</li>  
+<li>📺 watch livestreams on twitch</li>
 
 ### [🌐 visit my website!](https://anjos.cc)

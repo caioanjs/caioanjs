@@ -5,7 +5,7 @@
 hi! i'm **anjos**   
 i'm a **web designer**, a (beginner) **musician**, and a **student** in california 🌴
 
-🌱 my main language is **brazilian portuguese**, but i also speak **english** fluently!
+🌱 my main language is **brazilian portuguese**, but i also speak **english**!
 
 ---
 
